@@ -1,0 +1,86 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+}
+.logo {
+  background-color: gray;
+  height: 50px;
+  width: 99%;
+  margin-top: 10px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  margin-left: 10px;
+  justify-content: center;
+}
+.header {
+  background-color: gray;
+  height: 100px;
+  width: 99%;
+  margin-left: 10px;
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+  height: 50px;
+  width: 99%;
+  margin-left: 10px;
+}
+.nav-item {
+  background-color: gray;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  width: 100px;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+  height: 500px;
+  width: 99%;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.blog-left {
+  background-color: gray;
+  width: 50%;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+.blog-right {
+  width: 50%;
+  height: 500px;
+  margin-left: 10px;
+}
+.quick-links-top {
+  background-color: gray;
+  height: 49%;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+.quick-links-bottom {
+  background-color: gray;
+  height: 49%;
+  margin-top: 10px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+.footer {
+  background-color: gray;
+  width: 99%;
+  height: 200px;
+  margin-top: 10px;
+  margin-left: 10px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
